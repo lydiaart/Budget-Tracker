@@ -26,6 +26,9 @@ This application is to assist avid travelers to keep track of deposits and withd
 * MongoDB
 * Compression
 * Morgan
+* Manifest
+* Service Worker
+* IndexDB
 
   
 ## Usage 
