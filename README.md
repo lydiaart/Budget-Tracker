@@ -42,7 +42,7 @@ The following image demonstrates the web application's appearance and functional
 ## Credits
 
 Start code from <a href="https://github.com/coding-boot-camp/miniature-eureka">Xandromus</a><br>
-Lydia Loy
+Lydia L
     
 ## Questions
   
